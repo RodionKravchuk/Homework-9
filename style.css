@@ -1,0 +1,27 @@
+.box-linear_gradient {
+  background: linear-gradient(to right, blue, red);
+}
+
+.box-deg_linear_gradient {
+  background: linear-gradient(to bottom right, blue, red);
+}
+
+.box-radial_gradient {
+  background: radial-gradient(red, blue);
+}
+
+.box-circle_radial_gradient {
+  background: radial-gradient(red 10px, yellow 30%, #1e90ff 50%);
+}
+
+.box-outset_shadow {
+    box-shadow: inset 5em 1em gold;
+}
+
+.box-inset_shadow {
+    box-shadow: 10px 5px 5px red;
+}
+
+.box-shadow {
+    box-shadow: 3px 3px red, -1em 0 .4em olive;
+}
